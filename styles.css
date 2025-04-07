@@ -1,1 +1,21 @@
-
+body {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  margins: 0;
+  padding: 0;
+  background-color: #7692f0;
+  color: #002192;
+}
+header {
+  background-color: #7692f0;
+  color: #002192;
+  padding:0;
+  border-bottom: 2px solid #002192
+}
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: #7692f0;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #002192;
+}
